@@ -1,0 +1,42 @@
+ * {
+      -webkit-box-sizing: border-box;
+         -moz-box-sizing: border-box;
+              box-sizing: border-box;
+              /*border:1px solid blue;*/
+
+    }
+
+body{
+	font-family: 'Catamaran';
+
+}
+.img-responsive {
+    width: 50%;
+}
+
+.jumbotron{
+	display:flex;
+	flex-flow: row wrap;
+	background-color: rgb(38,182,124);
+	color: white;
+	margin-bottom: 3%;
+}
+
+.fontcolor{
+	color: rgb(38,182,124);
+}
+
+.elempos{
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: left;
+	margin-top: 10%;
+	
+}
+
+button{
+	background-color: rgb(38,182,124);
+	color: white;
+	padding: 10px 10px;
+	margin: 10% 0 0 30%;
+}
