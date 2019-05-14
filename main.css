@@ -17,13 +17,15 @@ body{
 .jumbotron{
 	display:flex;
 	flex-flow: row wrap;
-	background-color: rgb(234, 167, 14);
+	/*background-color: rgb(234, 167, 14);*/
+	background-color: rgb(38,182,124);
 	color: white;
 	margin-bottom: 3%;
 }
 
 .fontcolor{
-	color: rgb(234, 167, 14);
+	/*color: rgb(234, 167, 14);*/
+	color:	rgb(38,182,124);
 }
 
 .elempos{
@@ -35,7 +37,8 @@ body{
 }
 
 button{
-	background-color: rgb(234, 167, 14);
+	/*background-color: rgb(234, 167, 14);*/
+	background-color: rgb(38,182,124);
 	color: white;
 	padding: 10px 10px;
 	margin: 10% 0 0 30%;
